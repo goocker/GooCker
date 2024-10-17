@@ -1,0 +1,34 @@
+반응형 디자인
+부트스트랩
+favicon 창 탭 아이콘
+시멘틱 태그
+헤더
+-헤드
+-nav
+
+바닥
+-footer
+
+
+
+flaticon
+
+col-숫자 -화면 12등분
+기본 12등분
+col-md-숫자 -미디움
+col-sm-숫자 -작은 화면 스몰
+col-lg-숫자 -큰 화면 라지
+
+
+
+pagination
+페이지 네이션
+
+
+wysiwyg
+
+
+
+<textarea></textarea>
+
+
